@@ -1,2 +1,4 @@
 # HTML-CSS-Sprints
-Learning HTML &amp; CSS for web development 
+Web Development learning
+1st year AIML student at CEC Mangalore
+Started - March 2026
